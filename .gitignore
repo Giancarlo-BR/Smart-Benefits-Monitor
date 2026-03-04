@@ -1,3 +1,5 @@
 .env
 Especificação Técnica - Monitor IA.pdf
-
+venv/
+__pycache__/
+*.pyc
