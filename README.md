@@ -17,7 +17,7 @@ Pipeline que raspa notícias de cartões e milhas, armazena no MySQL e usa o Gem
 | `requests` | Requisições HTTP para o scraping |
 | `beautifulsoup4` | Parse do HTML das páginas |
 | `mysql-connector-python` | Conexão e queries no MySQL |
-| `google-generativeai` | Integração com o Gemini |
+| `google-genai` | Integração com o Gemini |
 | `python-dotenv` | Leitura do arquivo `.env` |
 
 ---
