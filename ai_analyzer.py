@@ -19,7 +19,7 @@ def analyze_news(text, link):
     """
 
     response = client.models.generate_content(
-        model='gemini-2.-flash',
+        model='gemini-2.5-flash-lite',
         contents=prompt
     )
 
